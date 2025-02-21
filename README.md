@@ -1,2 +1,6 @@
 # windowsShutdown
-Simple python utility for a windows timer shutdown
+Simple python utility that lets you set up a windows shutdown timer
+
+Used imports are:
+tkinter
+os
